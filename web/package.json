@@ -51,7 +51,7 @@
     "@stablelib/x25519": "^1.0.3",
     "@tanstack/query-core": "^4.36.1",
     "@tanstack/react-query": "^4.36.1",
-    "@tanstack/react-virtual": "3.0.0-beta.9",
+    "@tanstack/react-virtual": "3.11.2",
     "@tanstack/virtual-core": "3.0.0-beta.9",
     "@tauri-apps/api": "^1.5.3",
     "@types/react-virtualized-auto-sizer": "^1.0.4",
